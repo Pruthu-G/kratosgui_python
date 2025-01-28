@@ -1,0 +1,8 @@
+launcher
+socket_for_BME280
+socket_for_SGP30
+socket_for_arm
+socket_for_multichannel
+socket_for_spectro
+socket_for_temperature
+websocket_module

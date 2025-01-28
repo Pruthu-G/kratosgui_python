@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/launcher.py
+src/socket_for_BME280.py
+src/socket_for_SGP30.py
+src/socket_for_arm.py
+src/socket_for_multichannel.py
+src/socket_for_spectro.py
+src/socket_for_temperature.py
+src/websocket_module.py
+src/kratosgui_python.egg-info/PKG-INFO
+src/kratosgui_python.egg-info/SOURCES.txt
+src/kratosgui_python.egg-info/dependency_links.txt
+src/kratosgui_python.egg-info/top_level.txt

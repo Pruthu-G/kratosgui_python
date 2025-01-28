@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+app/__init__.py
+app/db.py
+kratosgui_python.egg-info/PKG-INFO
+kratosgui_python.egg-info/SOURCES.txt
+kratosgui_python.egg-info/dependency_links.txt
+kratosgui_python.egg-info/top_level.txt

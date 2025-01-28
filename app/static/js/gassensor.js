@@ -1,0 +1,4 @@
+document.addEventListener('DOMContentLoaded',()=>{
+    const comp=document.getElementById('gas-post');
+    comp.innerHTML='<i class="fas fa-smog"></i>Carbon Monoxide (CO): 250 ppm <br> <i class="fas fa-industry"></i>Nitrogen Dioxide (NO2): 3.2 ppm  <br><i class="fas fa-wine-glass-alt"></i>  Ethanol (C2H6OH): 120 ppm  <br><i class="fas fa-tint"></i> Hydrogen (H2): 450 ppm  <br><i class="fas fa-vial"></i> Ammonia (NH3): 85 ppm  <br> <i class="fas fa-fire-alt"></i> Methane (CH4): 1500 ppm <br> <i class="fas fa-fire-alt"></i>Propane (C3H8): 1100 ppm  <br> <i class="fas fa-oil-can"></i>Iso-butane (C4H10): 950 ppm </div><div class="details"> <h3>Multichannel Gas Sensor</h3> <p>NH3,CO,NO2,C3H8,C4H10,CH4,H2,C2H5OH</p> </div>';
+});
